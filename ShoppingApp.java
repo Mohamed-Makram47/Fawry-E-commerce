@@ -51,7 +51,7 @@ class ExpirableProduct extends Product {
 }
 
 class ShippableProduct extends Product {
-    private int weight;  // weight per item in grams
+    private int weight;  
 
     public ShippableProduct(String name, int price, int quantity, int weight) {
         super(name, price, quantity);
