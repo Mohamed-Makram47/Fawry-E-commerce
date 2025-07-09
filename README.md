@@ -19,7 +19,8 @@ This project simulates product management, shopping cart functionality, checkout
 
 ### 💳 Checkout Process
 - Subtotal calculation  
-- Dynamic shipping fee (based on total weight)  
+- Dynamic shipping fee (based on total weight)
+
 - Validates customer balance before payment  
 - Prevents checkout if:
   - Cart is empty  
@@ -35,4 +36,5 @@ This project simulates product management, shopping cart functionality, checkout
 
 ---
 
-
+### Test Cases and Output
+![test cases and output](https://github.com/user-attachments/assets/53b6878a-1d07-4fac-8f3d-9a2c831afa88)
